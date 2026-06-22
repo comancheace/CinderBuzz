@@ -1,0 +1,22 @@
+Recommended Buzz MIDI CC mapping
+================================
+
+Use your Buzz MIDI mapping / MIDI tracker / Peer Control workflow to map these:
+
+CC74 - Main filter cutoff
+CC71 - Filter resonance
+CC91 - Reverb send / reverb wet
+CC93 - Delay send / delay wet
+CC7  - Master FX amount / group volume
+CC20 - Both hands up trigger. Use for build/drop macro if available.
+CC21 - Clap trigger. Use for one-shot FX or sample trigger if available.
+
+Musical advice
+--------------
+For a modern psytrance song, use the Kinect mostly for automation:
+- Left hand up: open the bass/lead filter before a drop.
+- Right hand up: add reverb during breakdowns.
+- Move hands apart: increase riser/FX energy.
+- Clap: trigger a crash, noise hit, or vocal chop.
+
+Avoid mapping Kinect to too many pitch parameters, because it can make the existing song sound out of tune.
